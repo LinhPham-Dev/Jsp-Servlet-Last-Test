@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index</title>
+<title>JSP - SERVLET TEST</title>
 </head>
 <body>
 	<%
